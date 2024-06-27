@@ -1,9 +1,10 @@
 👋 Olá a todos!
 
 Sobre mim:
-
-  * Desenvolvedor back-end altamente motivado e apaixonado por tecnologia com +2 anos de expêriencia, focado em resolver 
-    problemas utilizando linguagem de programação C# na plataforma .NET com arquitetura/padrão MVC. Conhecimentos em POO, GIT, SQL, NET Framework e Core.
+  
+  * Desenvolvedor com +2 anos de expêriencia e conhecimentos em tecnologias VbNet, Entity Framework, ASP.NET, .NET Core, Csharp, GIT, TFS, ASP.NET Clássico, Deploy IIS,
+    SqlServer(T-SQL), Procedures, Views e Functions.
+    Além disso, estou familiarizado com ferramentas de contêineres como Docker e Kubernetes.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wesley-silva&show_icons=true&theme=tokyonight" />
