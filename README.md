@@ -4,7 +4,6 @@ Sobre mim:
   
   * Desenvolvedor com +2 anos de expêriencia e conhecimentos em tecnologias VbNet, Entity Framework, ASP.NET, .NET Core, Csharp, GIT, TFS, ASP.NET Clássico, Deploy IIS,
     SqlServer(T-SQL), Procedures, Views e Functions.
-    Além disso, estou familiarizado com ferramentas de contêineres como Docker e Kubernetes.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wesley-silva&show_icons=true&theme=tokyonight" />
