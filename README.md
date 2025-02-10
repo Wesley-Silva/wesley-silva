@@ -2,8 +2,7 @@
 
 Sobre mim:
   
-  * Desenvolvedor com +2 anos de expêriencia e conhecimentos em tecnologias VbNet, Entity Framework, ASP.NET, .NET Core, Csharp, GIT, TFS, ASP.NET Clássico, Deploy IIS,
-    SqlServer(T-SQL), Procedures, Views e Functions.
+  * Desenvolvedor com +2 anos de experiência em desenvolvimento e manutenção de sistemas focado em tecnologias Microsoft. Experiência em Entity Framework Core, C#, ASP.NET MVC, APIs RESTful, SQL Server, Entity Framework e GIT. Habilidade em desenvolvimento full stack, manutenção de aplicações legadas e boas práticas como SOLID e Clean Code.
 
 <div>
   <img src="https://github-readme-stats.vercel.app/api?username=wesley-silva&show_icons=true&theme=tokyonight" />
